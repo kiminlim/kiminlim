@@ -9,17 +9,10 @@
 	
 
 
-
-**kiminlim/kiminlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 2018.08 ~ 2018.12	4차산업혁명 연합동아리 TAVE 
 - 🌱 2018.12 ~ 2019.01	삼성 멀티캠퍼스 '빅데이터를 활용한 파이썬 프로그래밍'수강
 - 👯 2019.03 ~ 2019.11	멋쟁이 사자처럼(웹개발 동아리)
 - 🤔 2019.07 ~ 2019.07	NVIDIA ai 컨퍼런스	nlp파트의 TA
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
