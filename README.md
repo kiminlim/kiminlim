@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiminlim&count_private=true&show_icons=true&theme=dracula)
 
 	
-
+### Experience
 
 - 🔭 2018.08 ~ 2018.12	4차산업혁명 연합동아리 TAVE 
 - 🌱 2018.12 ~ 2019.01	삼성 멀티캠퍼스 '빅데이터를 활용한 파이썬 프로그래밍'수강
