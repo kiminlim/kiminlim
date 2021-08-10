@@ -4,7 +4,7 @@
 
 ### 블로그 
 - ai 부스트캠프 4기 정리 노션 : https://www.notion.so/AI-612faf3590bf4a11bbfaaf22c2a0e95d  
-- > -> 노션 정리에서 궁금한 것이 있으시면 편하게 댓글 남겨 주세요!😄
+- > -> 노션 정리에서 궁금한 것이나 의견이 있으시면 편하게 댓글 남겨 주세요 !!😄
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiminlim&count_private=true&show_icons=true&theme=dracula)
 
