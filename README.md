@@ -3,8 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiminlim&count_bg=%23FFC4C4&title_bg=%23FF9494&icon=moleculer.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 블로그 
-ai 부스트캠프 4기 정리 노션 : https://www.notion.so/AI-612faf3590bf4a11bbfaaf22c2a0e95d
-
+- ai 부스트캠프 4기 정리 노션 : https://www.notion.so/AI-612faf3590bf4a11bbfaaf22c2a0e95d  
+-> 노션 정리에서 궁금한 것이 있으시면 자유롭게 댓글 남겨 주세요!😄
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiminlim&count_private=true&show_icons=true&theme=dracula)
 
