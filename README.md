@@ -6,6 +6,8 @@
 ## 블로그 
 - ai 부스트캠프 4기 정리 노션 : https://phrygian-diadem-ed8.notion.site/AI-612faf3590bf4a11bbfaaf22c2a0e95d
 
+- 프로젝트 정리 노션 : https://phrygian-diadem-ed8.notion.site/Project-b7f060c0442f4a8cbf68ee397e88a629
+
 - 공부 블로그 : https://mindsee-ai.tistory.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiminlim&count_private=true&show_icons=true&theme=dracula)
