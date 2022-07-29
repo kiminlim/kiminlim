@@ -8,6 +8,7 @@
 
 - 프로젝트 정리 노션 : https://phrygian-diadem-ed8.notion.site/Project-b7f060c0442f4a8cbf68ee397e88a629
 
+- 링크드인 : https://www.linkedin.com/in/%EA%B8%B0%EB%AF%BC-%EC%9E%84-926412185/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiminlim&count_private=true&show_icons=true&theme=dracula)
 
