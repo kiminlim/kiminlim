@@ -4,7 +4,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiminlim&count_bg=%23FFC4C4&title_bg=%23FF9494&icon=moleculer.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 블로그 
-- ai 부스트캠프 4기 정리 노션 : https://phrygian-diadem-ed8.notion.site/AI-612faf3590bf4a11bbfaaf22c2a0e95d
 
 - 프로젝트 정리 노션 : https://phrygian-diadem-ed8.notion.site/Project-b7f060c0442f4a8cbf68ee397e88a629
 
